@@ -13,13 +13,13 @@
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "os": "^0.1.2",
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "typescript": "^5.9.2"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
     "tsc": "^2.0.4",
-    "tsx": "^4.20.5",
-    "typescript": "^5.9.2"
+    "tsx": "^4.20.5"
   }
 }
