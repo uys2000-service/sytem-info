@@ -4,7 +4,7 @@
   "main": "src/main.ts",
   "license": "MIT",
   "scripts": {
-    "ins": "install --omit=dev"
+    "build": "tsc"
   },
   "dependencies": {
     "body-parser": "^2.2.0",
